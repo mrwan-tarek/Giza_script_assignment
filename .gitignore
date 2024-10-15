@@ -1,2 +1,4 @@
 node_modules/
 *.orig
+error_*.txt
+key.pem
